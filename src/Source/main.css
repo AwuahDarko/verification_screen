@@ -1,0 +1,46 @@
+.default-color0.chart-pie{
+-fx-pie-color: orangeRed;
+}
+.default-color1.chart-pie{
+-fx-pie-color: Aquamarine;
+}
+
+.chart-pie-label-line {
+-fx-stroke: white;
+-fx-fill: white;
+}
+
+.chart-pie-label {
+-fx-fill: white;
+-fx-font-size: 1em
+}
+
+.chart-legend {
+-fx-background-color: #fafad2;
+-fx-stroke: #daa520;
+}
+
+#closeBtn{
+-fx-background-color: yellow;
+-fx-text-fill: darkblue;
+}
+
+#closeBtn:hover {
+-fx-background-color: red;
+-fx-text-fill: white;
+}
+
+#closeBtn:pressed {
+-fx-background-color: darkred;
+-fx-text-fill: white;
+}
+
+.list-cell{
+-fx-font-size: 15pt;
+-fx-text-fill: darkblue;
+-fx-font-weight: bold
+}
+
+.textFont{
+-fx-text-fill: darkblue;
+}
