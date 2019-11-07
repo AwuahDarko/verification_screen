@@ -1,2 +1,3 @@
 Finger print verification screen 
-<img src="page.png" alt="Screen"/>
+
+![alt text] (https://raw.githubusercontent.com/AwuahDarko/verification_screen/master/page.png)
