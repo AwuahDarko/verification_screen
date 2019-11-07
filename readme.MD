@@ -1,3 +1,2 @@
 Finger print verification screen 
-
-![Screenshot](page.png)
+<img src="page.png" alt="Screen"/>
